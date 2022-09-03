@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'https://aniqa26.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: '/growthine'
+baseurl: '/growthine-theme'
 
 # Title of the Site
 title: GROWTHINE
